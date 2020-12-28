@@ -5,4 +5,4 @@
 - 💬 Ask me about creating Minecraft Plugins - I'd say I'm at least okay at doing that
 - 📫 How to reach me: Per E-Mail: [kiron@kirimcplay.tv](mailto:kiron@kirimcplay.tv)
 - 😄 Pronouns: he/him or they/them
-- ⚡ Fun fact: These points are most of the the GitHub ideas for your profile description, because I am very uncreative!
+- ⚡ Fun fact: These points are most of the GitHub ideas for your profile description, because I am very uncreative!

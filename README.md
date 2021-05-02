@@ -1,3 +1,7 @@
+**My Minecraft Plugins have relocated** to a GitHub organization: @KiriMC-Plugins
+This should help keep things more organized, both for me and you.
+Make sure to update your VCS link references, if you have any.
+
 - 🔭 I’m currently working on a Minecraft Plugin Library, called [kiriCore](https://github.com/kiriDevs/kiriCore)
 - 🌱 I’m currently learning JavaScript, mostly but not only server-side (i.e. Node.js)
 - 🤔 I’m looking for help with properly structuring different projects in different languages.

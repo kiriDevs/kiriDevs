@@ -1,6 +1,11 @@
+---
+
+### IMPORTANT message for users of [kiriCore](https://github.com/KiriMC-Plugins/kiriCore) and [survivalTools](https://github.com/KiriMC-Plugins/survivaltools):
 **My Minecraft Plugins have relocated** to a GitHub organization: [KiriMC-Plugins](https://github.com/KiriMC-Plugins).
 This should help keep things more organized, both for me and you.
-Make sure to update your VCS link references, if you have any.
+Make sure to update your VCS link references, if you have any (including your `git remote`s!).
+
+---
 
 - 🔭 I’m currently working on a Minecraft Plugin Library, called [kiriCore](https://github.com/kiriDevs/kiriCore)
 - 🌱 I’m currently learning JavaScript, mostly but not only server-side (i.e. Node.js)

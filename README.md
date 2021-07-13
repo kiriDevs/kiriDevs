@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a Minecraft Plugin Library, called [kiriCore](https://github.com/kiriDevs/kiriCore)
+- 🔭 I’m currently working on a discord.js command interpreter, [RocketCommands](https://github.com/kiriDevs/RocketCommands) (because there aren't enough already)
 - 🌱 I’m currently learning JavaScript, mostly but not only server-side (i.e. Node.js)
 - 🤔 I’m looking for help with properly structuring different projects in different languages.
 - 💬 Ask me about creating Minecraft Plugins - I'd say I'm at least okay at doing that

@@ -1,6 +1,6 @@
 Hi!
 I'm just a random person from Germany, coding whatever stuff I need in whatever language I (kinda) know and that is fit for the job.
-That helps be get a bit deeper into these languages and into developing in general.
+That helps me get a bit deeper into these languages and into developing in general.
 Look around, see what I am doing - potentially laugh about it - and move on.
 Or send me a PR to make something better.
 I love learning new ways to make stuff better.

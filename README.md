@@ -6,8 +6,9 @@ Or send me a PR to make something better.
 I love learning new ways to make stuff better.
 Oh yeah, these languages are mainly Python and Java, and I am currently learning JavaScript.
 
-Well, here are GitHub's default ideas, because I think they are actually pretty neat.
+Well, here are GitHub's default ideas plus some additions in the same style, because I think they are actually pretty neat.
 
+- 🎄 Currently [participating](https://github.com/kiriDevs/adventofcode) in [*Advent of Code*](https://adventofcode.com)!
 - 🔭 I’m currently working on my own API and React-App for my Minecraft Server
 - 🌱 I’m currently learning JavaScript, both server-side (i.e. Node.js) and Frontend (using React)
 - 🤔 I’m looking for help with properly structuring different projects in different languages.

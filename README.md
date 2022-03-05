@@ -10,8 +10,8 @@ I love learning new ways to make stuff better.
 Oh yeah, these languages are mainly Python and Java, and I am currently learning JavaScript.
 
 Well, here are GitHub's default ideas plus some additions in the same style, because I think they are actually pretty neat.
-- 🔭 I’m currently working on my own API and React-App for my Minecraft Server
-- 🌱 I’m currently learning JavaScript, both server-side (i.e. Node.js) and Frontend (using React)
+- 🔭 I’m currently working on [my dotfiles repo](https://github.com/kiriDevs/dotfiles)
+- 🌱 I’m currently learning C++ and React.js with TypeScript
 - 🤔 I’m looking for help with properly structuring different projects in different languages.
 - 💬 Ask me about creating Minecraft Plugins - I'd say I'm at least okay at doing that
 - 📫 How to reach me: Per E-Mail: [kiron@kirimcplay.tv](mailto:kiron@kirimcplay.tv)

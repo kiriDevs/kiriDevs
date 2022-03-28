@@ -15,4 +15,5 @@ Well, here are GitHub's default ideas plus some additions in the same style, bec
 - 💬 Ask me about creating Minecraft Plugins - I'd say I'm at least okay at doing that
 - 📫 How to reach me: Per E-Mail: [kiron@kirimcplay.tv](mailto:kiron@kirimcplay.tv)
 - 😄 Pronouns: Any
-- ⚡ Fun fact: Most of my projects come to life because I need something for something, check out the existing solutions and think "Why is this so complicated?", "Why doesn't this super-specific thing for my super-specific use-case exist?" or "I know this exists, but that'd be too easy for something that can't be *that* hard to do myself..." (I know, famous last words. And I can confirm: That is very accurate).
+- ⚡ Fun fact: [New] **kiriDevs/kiriDevs** is now a special repository: its `README.md` will appear on your profile
+  (yes GitHub still displays that for some reason whenever I commit to this, even though this is totally not new)

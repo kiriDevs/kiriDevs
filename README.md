@@ -26,6 +26,6 @@ Well, here are GitHub's default ideas plus some additions in the same style, bec
 - 📫 How to reach me: Per E-Mail: [kiron@kirimcplay.tv](mailto:kiron@kirimcplay.tv)
 - 😄 Pronouns: Any
 - ⚡ Fun fact: Package Managers for Windows exist to make installing things easier.
-  And then you need a script to update all of them.
-  Because one is not enough.
-  [I'm serious btw](https://gist.github.com/kiriDevs/ee5dc71e826b0422bf65449a20e17075)
+  And then you need a script to update all of your stuff.
+  Because even if you only need 3 packages, a single manager won't have them all.
+  [I'm serious btw.](https://gist.github.com/kiriDevs/ee5dc71e826b0422bf65449a20e17075)

@@ -25,5 +25,7 @@ Well, here are GitHub's default ideas plus some additions in the same style, bec
 - 💬 Ask me about creating Minecraft Plugins - I'd say I'm at least okay at doing that
 - 📫 How to reach me: Per E-Mail: [kiron@kirimcplay.tv](mailto:kiron@kirimcplay.tv)
 - 😄 Pronouns: Any
-- ⚡ Fun fact: [New] **kiriDevs/kiriDevs** is now a special repository: its `README.md` will appear on your profile
-  (yes GitHub still displays that for some reason whenever I commit to this, even though this is totally not new)
+- ⚡ Fun fact: Package Managers for Windows exist to make installing things easier.
+  And then you need a script to update all of them.
+  Because one is not enough.
+  [I'm serious btw](https://gist.github.com/kiriDevs/ee5dc71e826b0422bf65449a20e17075)

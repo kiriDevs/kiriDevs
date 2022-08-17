@@ -7,13 +7,13 @@ I love learning new ways to make stuff better.
 I mainly use these languages:
   - Python
     - for smaller scripts
-    - for [adventofcode](https://adventofcode.com)
+    - for [adventofcode](https://adventofcode.com) (see [kiriDevs/adventofcode](https://github.com/kiriDevs/adventofcode))
   - Java
-    - for Minecraft plugins
+    - for Minecraft plugins (e.g. [kiriCore](https://github.com/kiriDevs/kiriCore))
     - for school stuff.
-  - TypeScript (still getting comfortable with it)
-    - for Discord Bots with [discord.js](https://github.com/discordjs/discord.js)
-    - for websites with [React](https://reactjs.org)
+  - TypeScript
+    - for Discord Bots with [discord.js](https://github.com/discordjs/discord.js) (e.g. [ksmpdcbot](https://github.com/kiriDevs/ksmpdcbot))
+    - for websites with [React](https://reactjs.org) (e.g. [vplanweb](https://github.com/kiriDevs/vplanweb))
     - other small miscellaneous scripts
 
 Well, here are GitHub's default ideas plus some additions in the same style, because I think they are actually pretty neat.

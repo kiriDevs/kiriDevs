@@ -12,7 +12,7 @@ I mainly use these languages:
     - for Minecraft plugins (e.g. [kiriCore](https://github.com/kiriDevs/kiriCore))
     - for school stuff.
   - TypeScript
-    - for Discord Bots with [discord.js](https://github.com/discordjs/discord.js) (e.g. [ksmpdcbot](https://github.com/kiriDevs/ksmpdcbot))
+    - for Discord Bots with [discord.js](https://github.com/discordjs/discord.js)
     - for websites with [React](https://reactjs.org) (e.g. [vplanweb](https://github.com/kiriDevs/vplanweb))
     - other small miscellaneous scripts
 

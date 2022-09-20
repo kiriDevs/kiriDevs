@@ -20,8 +20,9 @@ I mainly use these languages:
     - other small miscellaneous scripts
 
 Well, here are GitHub's default ideas plus some additions in the same style, because I think they are actually pretty neat.
-- 🔭 I’m currently working on [a web app for my school substitution plan](https://github.com/kiriDevs/vplanweb)
-- 🌱 I’m currently learning C++ and React.js with TypeScript
+- 🔭 I’m currently working on [a web app for my school substitution plan](https://github.com/kiriDevs/vplanweb).
+  It's using `react` and `typescript`, built with `vite`.
+- 🌱 I’m currently learning C++ and `react-router-dom`
 - 🤔 I’m looking for help with properly structuring different projects in different languages.
 - 💬 Ask me about creating Minecraft Plugins - I'd say I'm at least okay at doing that
 - 📫 How to reach me: Per E-Mail: [kiron@kirimcplay.tv](mailto:kiron@kirimcplay.tv)

@@ -20,10 +20,9 @@ I mainly use these languages:
     - other small miscellaneous scripts
 
 Well, here are GitHub's default ideas plus some additions in the same style, because I think they are actually pretty neat.
-- 🔭 I’m currently working on [a web app for my school substitution plan](https://github.com/kiriDevs/vplanweb).
-  It's using `react` and `typescript`, built with `vite`.
-- 🌱 I’m currently enhancing my knowledge on TypeScript.
-- 🤔 I’m looking for resources on planning, deployment and security of larger scale projects (i. e. web services)
+- 🔭 I’m currently working on a little DNS server in Rust (as a private learning project).
+- 🌱 I’m currently learning Rust.
+- 🤔 I’m looking for resources on Rust design patterns / project structure, Linux software and web service infrastructure design.
 - 💬 Ask me about web-development, in particular `react` and `express`.
 - 📫 How to reach me: Per E-Mail: [kiron@kirimcplay.tv](mailto:kiron@kirimcplay.tv)
 - 😄 Pronouns: Any

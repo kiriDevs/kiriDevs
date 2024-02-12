@@ -1,11 +1,4 @@
-Hi!
-I'm just a random person from Germany, coding whatever stuff I need in whatever language I know (sometimes only barely) and that is (somewhat) fit for the job.
-Yes, it's chaotic sometimes.
-I'm currently studying computer science at KIT (Karlsruhe Institute of Technology)
-That helps me get a bit deeper into the languages I use and into development concepts and strategy in general.
-Look around, see what I am doing - potentially laugh about it - and move on.
-Or send me a PR to make something better.
-I love learning new ways to make stuff better.
+# Hi, I'm kiriDevs
 
 - 😄 Pronouns: Any
 - 🎓 Computer Science at KIT (Karlsruhe, Germany)

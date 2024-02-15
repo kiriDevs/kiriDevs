@@ -1,4 +1,4 @@
-# Hi, I'm kiriDevs
+# Hi, I'm Kiri
 
 - 😄 Pronouns: Any
 - 🎓 Computer Science at KIT (Karlsruhe, Germany)

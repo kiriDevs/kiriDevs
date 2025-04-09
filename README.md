@@ -1,7 +1,6 @@
 # Hi, I'm Kiri
 
 - 😄 Pronouns: Any
-- 🎓 Computer Science at KIT (Karlsruhe, Germany)
 - :speech_balloon: Languages: German :de:, English :gb:
 
 I'm just a random person from Germany, coding whatever stuff I need / want to in whatever language I know

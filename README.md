@@ -30,8 +30,3 @@ I am also currently (planning on) learning:
 > `22F4 3EBE F864 C069 DAA8  45D2 B087 E69B E3EE 208F`, and it is published on
 > `keys.openpgp.org` and `keyserver.ubuntu.com`.
 > For more information, see [pgp.md](pgp.md).
-
----
-```
-openpgp4fpr:22F43EBEF864C069DAA845D2B087E69BE3EE208F
-```

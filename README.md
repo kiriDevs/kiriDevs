@@ -31,4 +31,5 @@ I am also currently (planning on) learning:
 > `keys.openpgp.org` and `keyserver.ubuntu.com`.
 > For more information, see [pgp.md](pgp.md).
 
-<!-- openpgp4fpr:22F43EBEF864C069DAA845D2B087E69BE3EE208F -->
+---
+`openpgp4fpr:22F43EBEF864C069DAA845D2B087E69BE3EE208F`

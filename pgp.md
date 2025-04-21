@@ -1,13 +1,20 @@
 # PGP Keys
 
-## Currently
+## Current keys
 
 As of `2025-03-13`, I use subkeys of a single master key for all Git operations.
 
 **Master Key Fingerprint:**
 `22F4 3EBE F864 C069 DAA8  45D2 B087 E69B E3EE 208F`
 
-Here's the entire public key block to `gpg --import`:
+You can `gpg --recv-keys` the full key from your favorite keyserver from the
+following list:
+- `keys.openpgp.org`
+- `keyserver.ubuntu.org`
+This is **the recommended option**, because I'm less likely to forget to update
+these when something changes compared to this GitHub page.
+
+Alternatively, here's the entire public key block to `gpg --import`:
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----

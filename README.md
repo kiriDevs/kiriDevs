@@ -27,6 +27,6 @@ I am also currently (planning on) learning:
 
 > [!TIP]
 > I use PGP! My master key's fingerprint is
-> `22F4 3EBE F864 C069 DAA8  45D2 B087 E69B E3EE 208F`, though it is not
-> currently on any public key servers (at least I didn't upload it).
-> Instead, see [pgp.md](pgp.md).
+> `22F4 3EBE F864 C069 DAA8  45D2 B087 E69B E3EE 208F`, and it is published on
+> `keys.openpgp.org` and `keyserver.ubuntu.com`.
+> For more information, see [pgp.md](pgp.md).
